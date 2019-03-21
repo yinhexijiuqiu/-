@@ -17,5 +17,12 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+项目描述
+========
+本项目的定位是后台管理系统，主要为了熟悉vue2架构一个后端管理平台项目
+---
+技术栈
+--------
+vue2.5 + elementUI +  Vuex + vue-router + axios + ES6 + stylus + mock  + iconfont
+------
+持续更新，
